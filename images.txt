@@ -7,3 +7,4 @@ nginx
 gitlab/gitlab-ce:12.9.0-ce.0
 gitlab/gitlab-runner:v12.9.0
 twang2218/gitlab-ce-zh
+gitlab/gitlab-ce
