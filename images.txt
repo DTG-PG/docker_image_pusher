@@ -11,3 +11,4 @@ gitlab/gitlab-ce
 gitlab/gitlab-runner
 gitlab/gitlab-ce:12.10.14-ce.0
 gitlab/gitlab-ce:13.12.15-ce.0
+openjdk:11-jdk
