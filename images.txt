@@ -13,3 +13,4 @@ gitlab/gitlab-ce:12.10.14-ce.0
 gitlab/gitlab-ce:13.12.15-ce.0
 openjdk:11-jdk
 gradle:8.11.1-jdk17
+gradle:7.5-jdk17
